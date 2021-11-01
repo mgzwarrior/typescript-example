@@ -1,4 +1,5 @@
 # Typescript Example
+[![<mgzwarrior>](https://circleci.com/gh/mgzwarrior/typescript-example.svg?style=svg)](https://app.circleci.com/pipelines/github/mgzwarrior/typescript-example)
 A simple Node project using Express and Typescript.  Created following the tutorial found [here](https://developer.okta.com/blog/2018/11/15/node-express-typescript).
 
 ## NOTE
